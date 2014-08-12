@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SQLiteDemoProject</string>
+    <string name="title_section1">学生信息管理</string>
+    <string name="title_section2">图书信息管理</string>
+    <string name="title_section3">出借信息管理</string>
+    <string name="title_section4">信息查询</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="student_id">学号：</string>
+    <string name="student_name">姓名：</string>
+    <string name="student_tel">电话：</string>
+    <string name="default_student_id">1000</string>
+
+    <string name="book_id">编号：</string>
+    <string name="book_name">书名：</string>
+    <string name="book_price">价格：</string>
+    
+    <string name="rent_book_id">图书编号：</string>
+    <string name="rent_student_id">学生学号：</string>
+    <string name="rent_date">出借日期：</string>
+
+</resources>
